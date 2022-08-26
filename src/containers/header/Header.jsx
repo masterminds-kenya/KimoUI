@@ -6,8 +6,8 @@ import './header.css';
 const Header = () => (
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
-      <h1 className="gradient__text"> Build with AI</h1>
-      <p>kimo is a big data tool that is owned and operated by Oxford Aptitude Limited – A data science company We collect ,analyze, and deliver last mile data to our clients and partners.</p>
+      <h1 className="gradient__text"> KIMO</h1>
+      <p>“Last Mile Data Source”.</p>
 
       <div className="gpt3__header-content__input">
         <input type="email" placeholder="Your Email Address" />
