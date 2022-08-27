@@ -4,28 +4,27 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Modern Data Numerators',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: 'Sector Agnostic',
+    text: ' Our deep expertise stems from unparalleled coverage of almost all the  sectors to cater for our diversified pool of clients in need of data insights',
   },
   {
-    title: 'Datapoint verification',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: 'Guaranteed quality',
+    text: 'We aspire to see your business make the most out of our data collection analysis and reporting processes. Our team of expertise employ the latest tools and methodologies to help achieve this..',
   },
   {
-    title: 'Automated datamining tools',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'Reliability',
+    text: ': With our well trained data enumerators spread across the world and technology resources at our disposal, our turnaround on projects is shortened which means we are able to deliver quality work on time.',
   },
   {
-    title: 'User Centered Visualization tools',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: 'Affordability',
+    text: ' We have bundled our different services into packages that priced as per the  scope of work, to encourage all types of businesses in making data driven decisions for their  growth.',
   },
 ];
 
 const Features = () => (
   <div className="gpt3__features section__padding" id="features">
     <div className="gpt3__features-heading">
-      <h1 className="gradient__text">Get more insights from your customers.</h1>
-      <p>welcome</p>
+      <h1 className="gradient__text">WHY WORK WITH US?.</h1>
     </div>
     <div className="gpt3__features-container">
       {featuresData.map((item, index) => (
