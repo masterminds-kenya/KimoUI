@@ -28,7 +28,7 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
-        <p>Email : mulikami@gmail.com </p>
+        <p>Email : mulikamika@gmail.com </p>
         <p>Phone number : +254 796896384</p>
         <p>Address : 3rd Floor - Utumishi Co-Op House, Mamlaka Rd</p>
       </div>
